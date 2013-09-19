@@ -14,6 +14,7 @@ public class ClasseTeste {
 	 */
 	public ClasseTeste() {
 		// TODO Auto-generated constructor stub
+		// adicionei essa bobagem aqui
 	}
 
 }
